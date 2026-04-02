@@ -5,8 +5,8 @@ from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils import get_column_letter
 from io import BytesIO
 
-st.set_page_config(page_title="Excel UI Enhancer", layout="wide")
-st.title("📊 Excel UI Enhancer (Custom Styled)")
+st.set_page_config(page_title="Khotwa Excel UI Enhancer", layout="wide")
+st.title("📊 Khotwa Spreadsheet UI Enhancer")
 
 uploaded_file = st.file_uploader("Upload Excel file", type=["xlsx"])
 
