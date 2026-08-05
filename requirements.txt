@@ -2,3 +2,4 @@ streamlit
 openpyxl
 xlsxwriter
 pandas
+starlette<1.4
